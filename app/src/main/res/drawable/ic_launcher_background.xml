@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:offset="0" android:color="#2A0825" />
+                <item android:offset="0.5" android:color="#121212" />
+                <item android:offset="1" android:color="#0D1B2A" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Beautiful stardust in the background -->
+    <path
+        android:fillColor="#66FF4081"
+        android:pathData="M25,25l1.5,3l3,1.5l-3,1.5l-1.5,3l-1.5,-3l-3,-1.5l3,-1.5z M85,30l1,2l2,1l-2,1l-1,2l-1,-2l-2,-1l2,-1z M35,80l1,2l2,1l-2,1l-1,2l-1,-2l-2,-1l2,-1z M75,75l1.5,3l3,1.5l-3,1.5l-1.5,3l-1.5,-3l-3,-1.5l3,-1.5z" />
+</vector>

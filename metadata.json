@@ -1,0 +1,6 @@
+{
+  "name": "Wish Manifestation",
+  "description": "A beautiful cosmic wish manifestation app for Irshan and Hurain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
